@@ -1,22 +1,22 @@
-﻿string[] sacks = File.ReadAllLines("input.txt");
-int total = 0;
-foreach (string sack in sacks)
+﻿var lines = File.ReadAllLines("input.txt");
+
+int total = lines.Select(line =>
 {
-    int m = sack.Length / 2;
-    string comp1 = sack.Substring(0, m);
-    string comp2 = sack.Substring(m);
-    var intersection = comp1.Intersect(comp2);
-    foreach(var i in intersection)
-    {
-        if (char.IsUpper(i)) {
-            total += i - 38;
-        } else
-        {
-            total += i - 96; 
-        }
-       
-    }
+    var first = line.Take(line.Length / 2);
+    var second = line.Skip(line.Length / 2);
 
-}
+    return first.Intersect(second).Select(c => Char.IsUpper(c) ? c - 38 : c - 96).Sum();
 
+}).Sum();
 Console.WriteLine(total);
+
+int del2Total = lines.Chunk(3).Select(ls =>
+{
+    var first = ls[0];
+    var second = ls[1];
+    var third = ls[2];
+
+    return first.Intersect(second).Intersect(third).Select(c => Char.IsUpper(c) ? c - 38 : c - 96).Sum();
+
+}).Sum();
+Console.WriteLine(del2Total);
