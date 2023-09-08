@@ -1,22 +1,38 @@
 ﻿string[] sacks = File.ReadAllLines("input.txt");
 int total = 0;
-foreach (string sack in sacks)
+
+
+
+for (int i = 0; i < sacks.Length; i += 3) 
 {
-    int m = sack.Length / 2;
-    string comp1 = sack.Substring(0, m);
-    string comp2 = sack.Substring(m);
-    var intersection = comp1.Intersect(comp2);
-    foreach(var i in intersection)
+    string first = sacks[i];
+    string second = sacks[i+1];
+    string third = sacks[i+2];
+    var intersection = first.Intersect(second).Intersect(third);
+    foreach (var c in intersection)
     {
-        if (char.IsUpper(i)) {
-            total += i - 38;
-        } else
+        if (char.IsUpper(c))
         {
-            total += i - 96; 
+            total += c - 38;
         }
-       
+        else
+        {
+            total += c - 96;
+        }
+        
+
     }
-
 }
+int counter = 0;
+string[] elfs = new string[3];
+foreach (var c in sacks)
+{
+    elfs[counter] = c;
+    counter++;
+    if(counter == 2)
+    {
+        counter = 0;
 
-Console.WriteLine(total);
+    }
+}
+    Console.WriteLine(total);
