@@ -1,0 +1,14 @@
+C:\Users\hugof\source\repos\seiugfISUEGF\seiugfISUEGF\obj\Debug\net6.0\seiugfISUEGF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugof\source\repos\seiugfISUEGF\seiugfISUEGF\obj\Debug\net6.0\seiugfISUEGF.AssemblyInfoInputs.cache
+C:\Users\hugof\source\repos\seiugfISUEGF\seiugfISUEGF\obj\Debug\net6.0\seiugfISUEGF.AssemblyInfo.cs
+C:\Users\hugof\source\repos\seiugfISUEGF\seiugfISUEGF\obj\Debug\net6.0\seiugfISUEGF.csproj.CoreCompileInputs.cache
+C:\Users\hugof\source\repos\seiugfISUEGF\seiugfISUEGF\bin\Debug\net6.0\seiugfISUEGF.exe
+C:\Users\hugof\source\repos\seiugfISUEGF\seiugfISUEGF\bin\Debug\net6.0\seiugfISUEGF.deps.json
+C:\Users\hugof\source\repos\seiugfISUEGF\seiugfISUEGF\bin\Debug\net6.0\seiugfISUEGF.runtimeconfig.json
+C:\Users\hugof\source\repos\seiugfISUEGF\seiugfISUEGF\bin\Debug\net6.0\seiugfISUEGF.dll
+C:\Users\hugof\source\repos\seiugfISUEGF\seiugfISUEGF\bin\Debug\net6.0\seiugfISUEGF.pdb
+C:\Users\hugof\source\repos\seiugfISUEGF\seiugfISUEGF\obj\Debug\net6.0\seiugfISUEGF.dll
+C:\Users\hugof\source\repos\seiugfISUEGF\seiugfISUEGF\obj\Debug\net6.0\refint\seiugfISUEGF.dll
+C:\Users\hugof\source\repos\seiugfISUEGF\seiugfISUEGF\obj\Debug\net6.0\seiugfISUEGF.pdb
+C:\Users\hugof\source\repos\seiugfISUEGF\seiugfISUEGF\obj\Debug\net6.0\seiugfISUEGF.genruntimeconfig.cache
+C:\Users\hugof\source\repos\seiugfISUEGF\seiugfISUEGF\obj\Debug\net6.0\ref\seiugfISUEGF.dll

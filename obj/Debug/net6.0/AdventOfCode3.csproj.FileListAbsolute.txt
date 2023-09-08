@@ -1,0 +1,14 @@
+C:\Users\hugof\Documents\GitHub\AdventOfCode3\bin\Debug\net6.0\AdventOfCode3.exe
+C:\Users\hugof\Documents\GitHub\AdventOfCode3\bin\Debug\net6.0\AdventOfCode3.deps.json
+C:\Users\hugof\Documents\GitHub\AdventOfCode3\bin\Debug\net6.0\AdventOfCode3.runtimeconfig.json
+C:\Users\hugof\Documents\GitHub\AdventOfCode3\bin\Debug\net6.0\AdventOfCode3.dll
+C:\Users\hugof\Documents\GitHub\AdventOfCode3\bin\Debug\net6.0\AdventOfCode3.pdb
+C:\Users\hugof\Documents\GitHub\AdventOfCode3\obj\Debug\net6.0\AdventOfCode3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugof\Documents\GitHub\AdventOfCode3\obj\Debug\net6.0\AdventOfCode3.AssemblyInfoInputs.cache
+C:\Users\hugof\Documents\GitHub\AdventOfCode3\obj\Debug\net6.0\AdventOfCode3.AssemblyInfo.cs
+C:\Users\hugof\Documents\GitHub\AdventOfCode3\obj\Debug\net6.0\AdventOfCode3.csproj.CoreCompileInputs.cache
+C:\Users\hugof\Documents\GitHub\AdventOfCode3\obj\Debug\net6.0\AdventOfCode3.dll
+C:\Users\hugof\Documents\GitHub\AdventOfCode3\obj\Debug\net6.0\refint\AdventOfCode3.dll
+C:\Users\hugof\Documents\GitHub\AdventOfCode3\obj\Debug\net6.0\AdventOfCode3.pdb
+C:\Users\hugof\Documents\GitHub\AdventOfCode3\obj\Debug\net6.0\AdventOfCode3.genruntimeconfig.cache
+C:\Users\hugof\Documents\GitHub\AdventOfCode3\obj\Debug\net6.0\ref\AdventOfCode3.dll
